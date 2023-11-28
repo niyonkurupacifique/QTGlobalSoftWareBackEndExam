@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "baseUrl": "."
+  },
+  "include": [
+    "src/**/*"
+, "src/pages/pagesComponentsFolder/otpForm"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
